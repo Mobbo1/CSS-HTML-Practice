@@ -1,0 +1,25 @@
+.information{
+    background-color: rgb(53, 88, 114);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 25px 25px;
+    color: rgb(122, 170, 206);
+}
+
+body{
+    background-color: rgb(122, 170, 206);
+}
+
+.image{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    margin-left: auto;
+    padding: 0px;
+}
+
+.header{
+    border: 7px dotted rgb(247, 248, 240);
+    padding-inline-start: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 25px;
+}
